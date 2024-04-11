@@ -2,8 +2,8 @@ import React from 'react';
 
 export function Footer() {
   return (
-    <div>
+    <footer>
       <p>About</p>
-    </div>
+    </footer>
   );
 }
